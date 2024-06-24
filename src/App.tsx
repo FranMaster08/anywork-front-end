@@ -19,7 +19,8 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          Esto es un cambio de contador count is {count}
+          Esto es un cambio de contador count is {count} Aprendiendo con Pacho
+
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
